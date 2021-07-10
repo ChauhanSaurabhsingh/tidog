@@ -1,2 +1,2 @@
 # tidog
-just like tinder for dogs
+just like tinder for humans
